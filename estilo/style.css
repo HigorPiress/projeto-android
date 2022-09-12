@@ -64,13 +64,13 @@ header > h1{
     font-weight: normal;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.274);
-    margin: auto;
+   
 }
 
 header > p{
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
-    width: 500px;
+    width: 450px;
     color: white;
     margin: auto;
     padding-bottom: 30px;
