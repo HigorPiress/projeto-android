@@ -70,7 +70,7 @@ header > h1{
 header > p{
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
-    min-width: 400px;
+    min-width: 400px; /*widtg 450px*/
     max-width: 1000px;
     color: white;
     margin: auto;
